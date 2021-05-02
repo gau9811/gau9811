@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gau9811
-- 👀 I’m interested in web development 
+- 👋 Hi, I’m Gaurav bajaj
+- 👀 who loves to right flawless code
 - 🌱 I’m currently learning new tech 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gauravbajaj837@gmail.com
